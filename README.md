@@ -1,2 +1,2 @@
-# Primeiro-Reposit-ri
-Primeiro Repositório criado para estudos
+# Trabalho PI
+Repositório criado para projeto interdisciplinar.
